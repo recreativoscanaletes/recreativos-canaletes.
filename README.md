@@ -1,5 +1,3 @@
-# Recreativos Canaletes S.L. — con formulario
+# Recreativos Canaletes S.L. — con formulario y mapa
 
 Publicar en: https://recreativoscanaletes.github.io/recreativos-canaletes
-
-Formulario activo en https://formspree.io/f/mkgvaoel
